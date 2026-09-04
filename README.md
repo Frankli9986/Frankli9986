@@ -1,4 +1,3 @@
-<!-- GitHub Profile README v3 草稿 — 待 Frank 确认后更新到 Frankli9986/Frankli9986 仓库 -->
 <!-- 动态打字效果头图 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
